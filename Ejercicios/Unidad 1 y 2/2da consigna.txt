@@ -1,0 +1,4 @@
+2. De la misma lista de empleados que solicita el equipo de Recursos
+Humanos, deberán figurar los empleados que tengan menor
+antigüedad, por lo tanto, se solicita como parámetro traer los registros
+la tabla DimEmployee donde el campo EmployeeKey sea mayor a 10

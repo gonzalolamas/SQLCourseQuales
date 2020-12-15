@@ -1,0 +1,7 @@
+4. El equipo de Recursos Humanos necesita realizar un listado de
+empleados para un grupo de mails y luego enviar comunicados a los
+mismos, donde estén todos los empleados menos ‘Alejandro’, ‘Simon’ y
+‘Fred’. Para esto hay que listar todos los registros y todos los campos de
+la tabla DimEmployee donde el campo FirstName no tenga los textos
+‘Alejandro’, ‘Simon’ y ‘Fred’ además se solicitó ParentEmployeeKey sea
+igual a 112

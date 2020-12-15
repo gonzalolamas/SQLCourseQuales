@@ -1,0 +1,16 @@
+Unidad 1:
+Importar base de datos
+
+1. Pasos para importar una la base de datos descargada en el
+manual de instalación
+a. Abrir Sql Server Managment studio y conectar a la
+instancia instalada
+b. Clic derecho en la carpeta Databases y elegir la opción
+Restore Database
+c. Marcar la opción Device y darle clic al botón ...
+d. Dar clic en el botón Add y buscar la ubicación del archivo
+descargado ‘AdventureWorksDW2017.bak’ (Si no se lo
+encuentra en el explorador de archivos, mover a
+manualmente a la ruta C:\Program Files\Microsoft SQL
+Server\MSSQL15.SQLEXPRESS\MSSQL\Backup)
+e. Dar Ok y restaurar

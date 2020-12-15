@@ -1,0 +1,6 @@
+Sintaxis de Select
+
+1. Continuando con el pedido anterior, el equipo de Recursos Humanos,
+necesita saber cuáles de los empleados que están en estado activo.
+Para esto hay que listar todos los registros y todos los campos la tabla
+DimEmployee donde el campo Status sea igual ‘Current’.

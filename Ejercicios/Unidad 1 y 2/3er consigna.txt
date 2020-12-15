@@ -1,0 +1,7 @@
+Operadores aritméticos, lógicos y de comparación
+3. Continuando con el pedido solicitado por el equipo de Recursos
+Humanos, para poder realizar un subgrupo por edad de empleados en
+estado activo. Para esto listar todos los registros y todos los campos de
+la tabla DimEmployee donde el campo Status sea igual ‘Current’, el
+campo EmployeeKey sea mayor a 10 y que la fecha de nacimiento de
+esos empleados sea entre ‘1987-01-01’ y ‘1990-01-01’
