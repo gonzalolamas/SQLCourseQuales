@@ -1,0 +1,10 @@
+Unidad 3:
+Tipos de Joins y alternativas de sintaxis
+1. El equipo de Administración y Finanzas necesita realizar un análisis de
+tasa de cambio, para esto es necesario desarrollar una consulta que
+devuelva todos los campos de las tablas DimDate, FactCurrencyRate,
+partiendo de la tabla DimDate utilizando LEFT JOIN, filtrando que el
+campo DateKey de la tabla DimDate sea igual a 20141231. (Fijarse que si
+no existen registros con esas características los campos de la tabla
+FactCurrencyRate van a venir nulos, elegir otra fecha para ver la
+diferencia).
