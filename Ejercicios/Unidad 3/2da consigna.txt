@@ -1,0 +1,5 @@
+2. Para un análisis de cierre mensual, el equipo de Administración y
+Finanzas en conjunto con el equipo de Marketing, necesitan realizar
+una consulta utilizando RIGHT JOIN para traerse la información de las
+dos tablas mencionadas en el ejercicio anterior pero esta vez sin aplicar
+ningún filtro (Observar como el resultado cambia)

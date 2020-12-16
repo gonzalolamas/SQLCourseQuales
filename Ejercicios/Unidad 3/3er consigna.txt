@@ -1,0 +1,7 @@
+3. El equipo de Marketing necesita realizar una visualización donde se
+compara la lista de precios de los competidores vs la interna de la
+empresa, para esto se deberá realizar una consulta utilizando FULL
+JOIN para cruzar toda la información que contienen las tablas
+DimProduct y DimProductSubcategory, filtrar los resultados para que
+el campo ListPrice no sea nulo (observar el comportamiento de los
+datos con la consulta, full join, ¿Se puede aplicar el filtro?)
