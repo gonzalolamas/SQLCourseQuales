@@ -1,0 +1,13 @@
+Unidad 4:
+Create
+1. El área de I+D para realizar una petición del área de Recursos Humanos,
+donde se listen las personas por nombre, apellido, edad y peso, deberá
+crear una tabla que se llame DimPersona y que contenga los siguientes
+campos
+a. Id (entero auto incremental)
+b. Nombre (tipo de dato texto)
+c. Apellido (tipo de dato texto)
+d. Edad (tipo de dato numérico entero)
+e. Peso (tipo de dato decimal)
+(Definir el tamaño de los campos para posteriormente insertar datos, el
+campo peso puede puede ser nulo el resto no)

@@ -1,0 +1,36 @@
+2. El equipo de I+D tiene que crear dos tablas de respaldo (backUp) de la
+tabla Dim_Account para realizar unas pruebas de carga de datos. Para
+esto, realizar una consulta SQL que cree dos tablas de respaldo con
+datos llamadas Dim_Account_Bkp1 y Dim_Account_Bkp2 a partir de la
+tabla Dim_Account
+(Deben tener la misma estructura las dos tablas)
+
+Insert
+1. Se realizaron 5 nuevos ingresos de personas en el área Comercial, por lo
+que el equipo de Recursos Humanos tiene que hacer el ingreso de
+estos, en la tabla creada con anterioridad DimPersona. Se debe armar
+una consulta que inserte 5 registros de distintas personas a la tabla
+DimPersona creada anteriormente (Dificultad: Tener en cuenta los
+campos que no deberían ir)
+
+Delete
+1. Luego de realizar las pruebas de carga de datos, el área de I+D ya no
+necesita utilizar la DimAccount_Bkp2, por lo que solicita armar una
+consulta SQL que borre todos los registros de la tabla
+DimAccount_Bkp2
+
+Update
+1. Para un análisis del equipo Comercial, se solicita realizar una
+actualización de datos de la tabla Bkp1, creada por el área de I+D para
+que en el campo CustomMemberOptions se actualice con el valor ‘N/A.
+Para esto, armar una consulta SQL que actualice el campo
+CustomMemberOptions de la tabla DimAccount_Bkp1 con el valor
+‘N/A’ para todos los registros de la misma.
+
+2. El equipo de Comercial nuevamente necesita una actualización de
+datos en la tabla armada con anterioridad de Bkp1, en el cual se
+actualice el campo CustomMemberOptions con el valor ‘Cuenta’ y el
+campo CustomMembers con el valor ‘Usuario’ de la tabla
+DimAccount_Bkp1 con la condición de que el campo
+ParentAccountKey tiene que ser igual a 17. Realice una consulta de SQL
+para lograr dicha actualización.
