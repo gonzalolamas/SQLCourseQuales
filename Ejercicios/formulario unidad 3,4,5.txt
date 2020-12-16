@@ -1,4 +1,5 @@
 1 )  es la opcion 2
 2) es opcion 3
-3) 
-4)
+3) es opcion 4 creo(cantidad de dias primero con mas antiguedad 5202)
+
+4) es opcion 2 o 4... creo(puede cualquiera de dos hay q probarlo en sql,mayor a 100 veces)
