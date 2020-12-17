@@ -1,0 +1,6 @@
+Delete
+1. Luego de realizar las pruebas de carga de datos, el área de I+D ya no
+necesita utilizar la DimAccount_Bkp2, por lo que solicita armar una
+consulta SQL que borre todos los registros de la tabla
+DimAccount_Bkp2
+

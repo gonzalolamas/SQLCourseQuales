@@ -1,0 +1,8 @@
+Insert
+1. Se realizaron 5 nuevos ingresos de personas en el área Comercial, por lo
+que el equipo de Recursos Humanos tiene que hacer el ingreso de
+estos, en la tabla creada con anterioridad DimPersona. Se debe armar
+una consulta que inserte 5 registros de distintas personas a la tabla
+DimPersona creada anteriormente (Dificultad: Tener en cuenta los
+campos que no deberían ir)
+

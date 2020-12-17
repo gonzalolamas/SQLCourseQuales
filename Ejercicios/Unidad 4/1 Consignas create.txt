@@ -11,3 +11,10 @@ d. Edad (tipo de dato numérico entero)
 e. Peso (tipo de dato decimal)
 (Definir el tamaño de los campos para posteriormente insertar datos, el
 campo peso puede puede ser nulo el resto no)
+
+2. El equipo de I+D tiene que crear dos tablas de respaldo (backUp) de la
+tabla Dim_Account para realizar unas pruebas de carga de datos. Para
+esto, realizar una consulta SQL que cree dos tablas de respaldo con
+datos llamadas Dim_Account_Bkp1 y Dim_Account_Bkp2 a partir de la
+tabla Dim_Account
+(Deben tener la misma estructura las dos tablas)

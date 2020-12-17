@@ -1,0 +1,15 @@
+Update
+1. Para un análisis del equipo Comercial, se solicita realizar una
+actualización de datos de la tabla Bkp1, creada por el área de I+D para
+que en el campo CustomMemberOptions se actualice con el valor ‘N/A.
+Para esto, armar una consulta SQL que actualice el campo
+CustomMemberOptions de la tabla DimAccount_Bkp1 con el valor
+‘N/A’ para todos los registros de la misma.
+
+2. El equipo de Comercial nuevamente necesita una actualización de
+datos en la tabla armada con anterioridad de Bkp1, en el cual se
+actualice el campo CustomMemberOptions con el valor ‘Cuenta’ y el
+campo CustomMembers con el valor ‘Usuario’ de la tabla
+DimAccount_Bkp1 con la condición de que el campo
+ParentAccountKey tiene que ser igual a 17. Realice una consulta de SQL
+para lograr dicha actualización.
